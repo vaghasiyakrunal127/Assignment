@@ -1,2 +1,2 @@
-# CALCULATE-SIMPLE-INTEREST.c
+# CALCULATE-SIMPLE-INTEREST-
 This is my first Git Repository
