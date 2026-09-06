@@ -14,7 +14,7 @@ int main() {
 
     si = (a * b * c) / 100;
 
-    printf("S1000imple Interest = %.2f", si);
+    printf("Simple Interest = %f", si);
 
     return 0;
 }
